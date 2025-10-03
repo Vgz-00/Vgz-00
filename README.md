@@ -1,4 +1,6 @@
-## Hi there 👋
+## gosto da area de desenvolvemento de software principalmente jogos com ( unity(C#) ou unreal engine(C++), 
+##gosto mais da linguagem de c# pradesenvolvimento, acho que orientaçao a objetos e bom de seguir e facilita bastante as coisa,
+##mas tb nao deixo de gostar da parte de Fullstack principalmente combinado Angular(Javascript) + .Net(C#). 👋
 
 <!--
 **Vgz-00/Vgz-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
