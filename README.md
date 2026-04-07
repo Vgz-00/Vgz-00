@@ -2,9 +2,9 @@
 
 ---
 
-Sou um desenvolvedor que curte principalmente desenvolvimento de jogos ( principalmente + C# ) e tambem tenho um gosto legal por desenvolvimento fullstack , 
+Sou um desenvolvedor que curte principalmente desenvolvimento de jogos ( principalmente + C# ) e tambem tenho um certo gosto por desenvolvimento fullstack , 
 
-mobile , criar soluções que muitas vezes pareceram simples mas resolveram grandes problemas sendo eles até mesmo a diversão de um pessoas com um game  
+mobile , e criação de soluções que muitas vezes pareceram simples mas que resolvem grandes problemas sendo eles até mesmo a diversão de pessoas com um game  
 
 ---
 
