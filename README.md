@@ -2,54 +2,69 @@
 
 ---
 
-Sou um desenvolvedor que curte principalmente desenvolvimento de jogos ( principalmente + C# ) e tambem tenho um certo gosto por desenvolvimento fullstack , 
+Atualmente, estou em estudo contínuo de QA (Quality Assurance), com foco em testes de software, qualidade, automação, documentação e análise de bugs, buscando construir minha carreira na área.
 
-mobile , e criação de soluções que muitas vezes pareceram simples mas que resolvem grandes problemas sendo eles até mesmo a diversão de pessoas com um game  
+Em questão de desenvolvimento tenho principal experiencia pratica e técnica com desenvolvimento de jogos solo fazendo protótipos e projetos próprios com ferramentas como ( GODOT | GDScript ou C# & Love2D | Lua ).
+
+Além disso de forma complementar possuo conhecimentos em desenvolvimento mobile (Flutter) e fullstack (Javascript & Python)
 
 ---
 
 ### Tecnologias que uso
 
-## Backend & Jogos
+## Desenvolvimento de Jogos
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/>
+  
+</p>
+
+---
+
+## Ferramentas que uso pra Jogos
+
+<p>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original-wordmark.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" />
+  
 </p>
 
 ---
 
 ## Mobile 
 
-<img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="30" height="30" /><img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-line-wordmark.svg" width="30" height="30" />
-
+<img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30" height="30" />
+          
 ---
 
-## Frontend 
+## Desenvolvimento no geral
  
 <p>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
+  
 </p>
 
 ---
 
-## ferramentas 
+## ferramentas de desenvolvimento 
+<p>
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 
-<img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" />
- 
+<p> 
 ---
 
 ## 🔗 Links / Contato
